@@ -13,12 +13,6 @@ const Footer = () => {
             tempore nulla reiciendis quas numquam magni, culpa dignissimos
             possimus. Iure sed odit obcaecati autem repellendus.
           </p>
-          {/* <div className="footer_logo">
-            <img
-              src="https://www.nomadsland.ch/sites/default/files/icons/nomadspirit.svg"
-              alt=""
-            />
-          </div> */}
 
           <div className="footer_contacts__logo">
             <a href="*">
@@ -56,36 +50,6 @@ const Footer = () => {
           </h5>
         </div>
       </div>
-
-      {/* <div className="footer">
-        <div className="footer_info">
-          <div className="footer__text">
-            <div className="footer__text_item">
-              <ul>
-                <a href="*">about Us</a>
-                <a href="*">about Us</a>
-                <a href="*">about Us</a>
-              </ul>
-            </div>
-            <div className="footer__text_item">
-              <ul>
-                <a href="*">partners</a>
-                <a href="*">partners</a>
-                <a href="*">partners</a>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <hr />
-
-        <div className="footer_contacts__end">
-          <img
-            src="https://www.nomadsland.ch/themes/custom/benomad/images/logos/nomadsland-logo-on-dark.svg"
-            alt=""
-          />
-          <h4>названия компани</h4>
-        </div>
-      </div> */}
     </>
   );
 };
